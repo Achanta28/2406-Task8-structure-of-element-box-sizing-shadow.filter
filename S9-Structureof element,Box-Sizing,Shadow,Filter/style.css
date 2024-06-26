@@ -1,0 +1,215 @@
+#mainHeading {
+    color: black;
+    background-color: deeppink;
+    font-size: 2.23rem;
+    text-align: center;
+    border-radius: 50px; 
+   
+}
+#mainHeading:hover {
+    color: azure;
+    background-color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+    padding: 40px;
+    background-color: yellowgreen;
+    
+}
+#b1 {
+    
+    border: 20px dotted red;
+    border-radius: 50%;
+} 
+#b2 {
+    
+    border: 20px dashed blue;
+    border-radius: 50%;
+} 
+#b3 {
+    
+    border: 20px solid black;
+    border-radius: 50%;
+} 
+#b4 {
+    
+    border: 20px double yellow;
+    border-radius: 50%;
+} 
+#b5 {
+    
+    border: 20px groove tomato;
+    border-radius: 50%;
+} 
+#b6 {
+    
+    border: 20px ridge darkslateblue;
+    border-radius: 50%;
+} 
+
+#b7 {
+    
+    border: 20px inset darkgreen;
+    border-radius: 50%;
+} 
+#b8 {
+    
+    border: 20px outset deeppink;
+    border-radius: 50%;
+} 
+#b9 {
+    
+    border: 20px none darkkhaki;
+    border-radius: 50%;
+} 
+#b10 {
+    
+    border: 20px hidden skyblue;
+    border-radius: 50%;
+} 
+
+#para1 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: red;
+}
+
+#para2 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: deepskyblue;
+
+}
+
+#para3 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: blue;
+}
+#para4 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: blueviolet;
+}
+
+#para5 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: brown;
+
+}
+
+#para6 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: yellow;
+}
+#para7 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: green;
+}
+
+#para8 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: tomato;
+
+}
+
+#para9 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: orange;
+}
+#para10 {
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    overflow: scroll;
+    background-color: palevioletred;
+}
+
+#mainHeading2 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    border-radius: 50px;
+}
+
+h2 {
+    color: green;
+}
+#kohli1 {
+    border: 10px solid rebeccapurple;
+    width: 300px;
+    box-sizing: content-box;
+
+
+    
+}
+#kohli2 {
+    width: 200px;
+    box-sizing: border-box;
+}
+
+
+#mainHeading3 {
+    color: red;
+    background-color: black;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+#textShsdow {
+    color: black;
+    font-size: 1rem;
+    text-shadow: 1px 1px red;
+}
+
+#boxshadow {
+    color: white;
+    background-color: brown;
+    display: inline-block;
+    box-shadow: 10px 10px 10px black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#mainHeading4 {
+    color: black;
+    background-color: red;
+    text-align: center;
+    border-radius: 50px;
+}
+#dropShadow {
+    width: 400px;
+    height: 400px;
+    filter: drop-shadow(10px 10px 10px black); 
+   /* filter: invert();  */
+     
+
+}
